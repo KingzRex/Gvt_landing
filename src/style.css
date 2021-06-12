@@ -427,7 +427,7 @@ main .sec-3 .roadmap img {
   height: 70vw;
 }
 
-footer {
+.join {
   height: 10vw;
   background-color: #7429c1;
   display: -webkit-box;
@@ -439,7 +439,7 @@ footer {
   width: 100%;
 }
 
-footer .content {
+.join .content {
   margin-left: 5%;
   margin-right: 5%;
   display: -webkit-box;
@@ -447,13 +447,13 @@ footer .content {
   display: flex;
 }
 
-footer .content span {
+.join .content span {
   color: white;
   font-size: 2.5vw;
   font-weight: bold;
 }
 
-footer .content .links {
+.join .content .links {
   position: relative;
   left: 24vw;
   width: 40vw;
@@ -464,7 +464,7 @@ footer .content .links {
       justify-content: space-around;
 }
 
-footer .content .links i {
+.join .content .links i {
   cursor: pointer;
   color: white;
   font-size: 4vw;
@@ -472,7 +472,7 @@ footer .content .links i {
   transition: all 0.3s ease-in-out;
 }
 
-footer .content .links i:hover {
+.join .content .links i:hover {
   color: #b8b7b7;
 }
 
